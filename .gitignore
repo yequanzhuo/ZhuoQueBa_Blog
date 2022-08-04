@@ -1,0 +1,12 @@
+**/node_modules
+**/*.iml
+*.log
+**/log
+**/.idea
+*.idea
+**/target
+/target
+*.jar
+*.class
+.temp/
+docs/dist/
